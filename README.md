@@ -81,3 +81,10 @@ The findings provide institutions with actionable insights to:
 - Develop interventions tailored to address demographic-specific dropout risks.
 - Explore advanced modeling techniques like ensemble learning for better predictions.
 
+---
+
+## 🔗 **Portfolio & Contact**
+
+This project is part of my Data Science Portfolio, showcasing my expertise in tackling real-world problems using data science. For any inquiries or collaborations, feel free to reach out via:
+-	Email: shayan.raja123@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shayanraja
